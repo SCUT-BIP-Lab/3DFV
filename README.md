@@ -32,31 +32,31 @@ While reporting results using the SCUT LFMB-3DPVFV Dataset, please cite the foll
 
 
 ## Contact
-HongBin Xu 
-Biometrics and Intelligence Perception Lab.
-School of Software Engineering
-South China University of Technology
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641
-xxxxxxxx@mail.scut.edu.cn
+HongBin Xu     
+Biometrics and Intelligence Perception Lab.    
+School of Software Engineering    
+South China University of Technology    
+Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641   
+xxxxxxxx@mail.scut.edu.cn   
 
-Weili Yang
-Biometrics and Intelligence Perception Lab.
-College of Automation Science and Engineering
-South China University of Technology
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641
-auyang.wei.li@mail.scut.edu.cn
+Weili Yang   
+Biometrics and Intelligence Perception Lab.   
+College of Automation Science and Engineering   
+South China University of Technology    
+Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641   
+auyang.wei.li@mail.scut.edu.cn    
 
-QiuXia Wu 
-Biometrics and Intelligence Perception Lab.
-School of Software Engineering
-South China University of Technology
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641
-qxwu@scut.edu.cn
+QiuXia Wu    
+Biometrics and Intelligence Perception Lab.   
+School of Software Engineering   
+South China University of Technology    
+Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641    
+qxwu@scut.edu.cn   
 
-Prof. Kang Wenxiong
-Biometrics and Intelligence Perception Lab.
-College of Automation Science and Engineering
-South China University of Technology
-Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641
-auwxkang@scut.edu.cn
+Prof. Kang Wenxiong   
+Biometrics and Intelligence Perception Lab.   
+College of Automation Science and Engineering   
+South China University of Technology   
+Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641      
+auwxkang@scut.edu.cn   
 
