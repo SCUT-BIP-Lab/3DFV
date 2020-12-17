@@ -13,7 +13,7 @@ In the network, the rotation problem is transformed to a permutation problem wit
 Finally, to validate the performance of the proposed network more rigorously and enrich the database resources for the finger vein recognition community, we built the largest publicly available 3D finger vein dataset with different degrees of finger rotation, namely the Large-scale Finger Multi-Biometric Database-3D Pose Varied Finger Vein (SCUT LFMB-3DPVFV) Dataset Experimental results on 3D finger vein datasets show that our 3DFVSNet holds strong robustness against axial rotation compared to other approaches.
 
 ## SCUT LFMB-3DPVFV Dataset
-We introduce a 3D finger vein dataset--the Large-scale Finger Multi-Biometric Database-3DPose Varied Finger Vein (SCUT LFMB-3DPVFV) Dataset.
+We introduce a 3D finger vein dataset--__the Large-scale Finger Multi-Biometric Database-3DPose Varied Finger Vein (SCUT LFMB-3DPVFV) Dataset__.
 SCUT LFMB-3DPVFV contains 702 fingers collected from the index finger and middle finger of both right and left hands. Each finger was acquired 14 times and the 3D model was reconstructed from images from 3 different views. To simulate the arbitrary rotation in realistic scenarios, the volunteers are asked to rotate their fingers in various poses. The first 10 acquisitions are collected with rotation no more than ±30 degrees, while the remaining 4 times are collected by rotating the fingers with larger rotation no more than ±80 degrees. Finally, There are 7020 3D finger vein models for easy rotation and 9828 3D finger vein models for hard rotation.
 
 ## Request
