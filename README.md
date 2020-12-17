@@ -37,7 +37,7 @@ Biometrics and Intelligence Perception Lab.
 School of Software Engineering    
 South China University of Technology    
 Wushan RD.,Tianhe District,Guangzhou,P.R.China,510641   
-xxxxxxxx@mail.scut.edu.cn   
+hongbin1013@gmail.com   
 
 Weili Yang   
 Biometrics and Intelligence Perception Lab.   
