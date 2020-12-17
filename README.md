@@ -22,13 +22,13 @@ The SCUT LFMB-3DPVFV Dataset is publicly available(free of charge) to the resear
 We have made part of the dataset available for download in the repo in order to get a detailed view of this data. Those interested in obtaining the whole SCUT LFMB-3DPVFV Dataset should download [release agreement](https://github.com/BIP-Lab/SCUT--SFVD/blob/master/SCUT%20FV%20Presentation%20Attack%20Database%20Release%20Agreement.pdf), and send by e-mail one signed and scanned copy to scutbip@outlook.com.
 
 
-While reporting results using the SCUT LFMB-3DPVFV Dataset, please cite the following article:  
-@inproceedings{Hongbin2021fv,
-  title={ Endowing rotation invariance for 3D finger shape and vein verification },
-  author={ Hongbin Xu, Weili Yang, Qiuxia Wu and WenXiong Kang },
-  booktitle={ Frontiers of Computer Science },
-  year={2021}
-}
+While reporting results using the SCUT LFMB-3DPVFV Dataset, please cite the following article:    
+@inproceedings{Hongbin2021fv,  
+  title={ Endowing rotation invariance for 3D finger shape and vein verification },  
+  author={ Hongbin Xu, Weili Yang, Qiuxia Wu and WenXiong Kang },  
+  booktitle={ Frontiers of Computer Science },  
+  year={2021}   
+}  
 
 
 ## Contact
